@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <a href="https://github.com/LBenati">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LBenati&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LBenati&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LBenati&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LBenati&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="LBenati-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="LBenati-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
   
-  <img align="right" alt="LBenati-Photo" height="150" style="border-radius:50px;" src="https://mir-s3-cdn-cf.behance.net/user/230/5a5cd41015840221.62f094f37e0a3.jpg">
+  <img align="right" alt="LBenati-Photo" height="150" style="border-radius: 50px;" src="https://c.tenor.com/pQRkI8XvnzgAAAAC/pikachu-surf.gif">
 </div>
 
 ##
@@ -58,7 +58,13 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/lucas-benati/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.behance.net/lucasbenati" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a href="https://gitlab.com/lucas_bnati" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
-  <a href="https://replit.com/@LucasBenati" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>  
+  <a href="https://replit.com/@LucasBenati" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>
+  
+  <img align="right" alt="Haunter" width="250" style="border-radius: 50px;" src="https://thumbs.gfycat.com/BestPertinentCats-size_restricted.gif">
+</div>
+
+<div>
+  <img align="right" alt="Zigzagoon" width="100" style="border-radius: 50px; transform: scaleX(-1);" src="https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/zigzagoon.gif">
 </div>
 
 <!-- ![Snake animation](https://github.com/LBenati/LBenati/blob/output/github-contribution-grid-snake.svg) -->
