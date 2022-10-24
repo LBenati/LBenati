@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div>
-  <img align="right" alt="Zigzagoon" width="100" style="border-radius: 50px; transform: scaleX(-1);" src="https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/zigzagoon.gif">
+  <img align="right" alt="Zigzagoon" width="100" style="border-radius: 50px;" src="https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/zigzagoon.gif">
 </div>
 
 <!-- ![Snake animation](https://github.com/LBenati/LBenati/blob/output/github-contribution-grid-snake.svg) -->
